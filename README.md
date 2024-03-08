@@ -1,5 +1,5 @@
-# ✨DotNet Exercises
-C#/.NET/.NET Core常用语法、技巧、中间件、类库练习集，配套详细的文章教程讲解，助你快速掌握C#/.NET/.NET Core常用语法、技巧、中间件、类库等等。
+# 🍀DotNet Exercises
+[DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)专栏C#/.NET/.NET Core编程常用语法、技巧、中间件、类库练习集，配套详细的文章教程讲解，助你快速掌握C#/.NET/.NET Core各种编程常用语法、技巧、中间件、类库等等。
 
 >想要学习DotNet什么技术欢迎Issues中留言：https://github.com/YSGStudyHards/DotNetExercises/issues
 
