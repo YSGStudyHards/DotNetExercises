@@ -11,7 +11,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 * [DotNetGuide技术社区微信交流群👪](https://mp.weixin.qq.com/s/dgDT4Yexi_qyy84iYo9IiA)
 * [C#/.NET/.NET Core学习、工作、面试指南🐱‍🚀](https://github.com/YSGStudyHards/DotNetGuide)
 
-## 📚公众号文章详细教程
+## 📚文章详细教程
 - [**1、QuestPDFExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/QuestPDFExercise)：[.NET使用QuestPDF高效地生成PDF文档](https://mp.weixin.qq.com/s/ZLxDsDE-UQnYdLnVw4h3Kg)
 - [**2、TimeCrontabExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/TimeCrontabExercise)：[.NET 全能 Cron 表达式解析库](https://mp.weixin.qq.com/s/sO_TdFNNsUUQKePoEliTAA)
 
