@@ -1,5 +1,5 @@
 # ✨DotNet Exercises
-公众号：「追逐时光者」文章教程、练习完整示例代码存储地，配套详细文章讲解，助你快速掌握DotNet常用语法、技巧、中间件等等。
+C#/.NET/.NET Core常用语法、技巧、中间件、类库练习集，配套详细的文章教程讲解，助你快速掌握C#/.NET/.NET Core常用语法、技巧、中间件、类库等等。
 
 >想要学习DotNet什么技术欢迎Issues中留言：https://github.com/YSGStudyHards/DotNetExercises/issues
 
