@@ -15,5 +15,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**1、QuestPDFExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/QuestPDFExercise)：[.NET使用QuestPDF高效地生成PDF文档](https://mp.weixin.qq.com/s/ZLxDsDE-UQnYdLnVw4h3Kg)
 - [**2、TimeCrontabExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/TimeCrontabExercise)：[.NET 全能 Cron 表达式解析库](https://mp.weixin.qq.com/s/sO_TdFNNsUUQKePoEliTAA)
 - [**3、BouncyCastleExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/BouncyCastleExercise)：[C#版开源免费的Bouncy Castle密码库](https://mp.weixin.qq.com/s/_VLzuDkyELusgsjFO6Wkog)
+- [**4、ScottPlotWinFormsExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/ScottPlotWinFormsExercise)：[使用ScottPlot库在.NET WinForms中快速实现大型数据集的交互式显示
+](https://mp.weixin.qq.com/s/d-nUV3pLQ5_MhyfV4rEzAg)
 
 
