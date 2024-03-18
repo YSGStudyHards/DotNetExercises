@@ -1,0 +1,31 @@
+﻿@page "/PieSimple"
+@using ChartjsExercise.Model
+<h3>饼图</h3>
+
+<Chart Config="_config" @ref="_chart" Height="500px"></Chart>
+
+@code {
+    private PieChartConfig? _config;
+    private Chart? _chart;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _config = new PieChartConfig()
+            {
+                Options = new PieOptions()
+                {
+                    Responsive = true,
+                    MaintainAspectRatio = false
+                }
+            };
+
+        _config.Data.Labels = PieSimpleData.SimplePieText;
+        _config.Data.Datasets.Add(new PieDataset()
+            {
+                Label = "数据集",
+                Data = PieSimpleData.SimplePie.ToList(),
+                BackgroundColor = Colors.PaletteBorder1,
+                HoverOffset = 4
+            });
+    }
+}

@@ -1,0 +1,36 @@
+﻿@page "/LineSimple"
+@using ChartjsExercise.Model
+
+<h3>折线图</h3>
+
+<Chart Config="_config" @ref="_chart" Height="500px"></Chart>
+
+@code {
+    private LineChartConfig? _config;
+    private Chart? _chart;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _config = new LineChartConfig()
+        {
+        };
+
+        _config.Data.Labels = LineSimpleData.SimpleLineText;
+        _config.Data.Datasets.Add(new LineDataset()
+            {
+                Label = "数据集",
+                Data = LineSimpleData.SimpleLine.ToList(),
+                BorderColor = Colors.PaletteBorder1.FirstOrDefault(),
+                Tension = 0.1M,
+                Fill = false,
+                PointRadius = 15,
+                PointStyle = PointStyle.Cross
+            });
+    }
+
+    private void AddValue()
+    {
+        Random rd = new Random();
+        _chart.AddData(new List<string?>() { "August" }, 0, new List<decimal?>() { rd.Next(0, 200) });
+    }
+}

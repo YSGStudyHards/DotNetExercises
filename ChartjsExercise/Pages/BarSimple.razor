@@ -1,0 +1,61 @@
+﻿@page "/BarSimple"
+@using ChartjsExercise.Model
+<h3>柱状图</h3>
+
+<Chart Config="_config" @ref="_chart" Height="500px"></Chart>
+
+@code {
+    private BarChartConfig? _config;
+    private Chart? _chart;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _config = new BarChartConfig()
+            {
+                Options = new Options()
+                {
+                    Responsive = true,
+                    MaintainAspectRatio = false,
+                    Plugins = new Plugins()
+                    {
+                        Legend = new Legend()
+                        {
+                            Align = Align.Center,
+                            Display = true,
+                            Position = LegendPosition.Right
+                        }
+                    },
+                    Scales = new Dictionary<string, Axis>()
+                {
+                    {
+                        Scales.XAxisId, new Axis()
+                        {
+                            Stacked = true,
+                            Ticks = new Ticks()
+                            {
+                                MaxRotation = 0,
+                                MinRotation = 0
+                            }
+                        }
+                    },
+                    {
+                        Scales.YAxisId, new Axis()
+                        {
+                            Stacked = true
+                        }
+                    }
+                }
+                }
+            };
+
+        _config.Data.Labels = BarSimpleData.SimpleBarText;
+        _config.Data.Datasets.Add(new BarDataset()
+            {
+                Label = "Value",
+                Data = BarSimpleData.SimpleBar.Select(l => l.Value).ToList(),
+                BackgroundColor = Colors.Palette1,
+                BorderColor = Colors.PaletteBorder1,
+                BorderWidth = 1
+            });
+    }
+}
