@@ -18,5 +18,6 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**4、ScottPlotWinFormsExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/ScottPlotWinFormsExercise)：[使用ScottPlot库在.NET WinForms中快速实现大型数据集的交互式显示
 ](https://mp.weixin.qq.com/s/d-nUV3pLQ5_MhyfV4rEzAg)
 - [**5、ChartjsExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/ChartjsExercise)：[在Blazor中使用Chart.js快速创建图表](https://mp.weixin.qq.com/s/AfTWnRfS-aq32hdTn2VgdQ)
+- [**6、GenericRepositoryExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/GenericRepositoryExercise)：[一个库帮你快速实现EF Core数据仓储模式](https://mp.weixin.qq.com/s/OQINTUyppNyh53GkOOaxMA)
 
 
