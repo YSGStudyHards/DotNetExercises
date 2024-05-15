@@ -19,5 +19,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 ](https://mp.weixin.qq.com/s/d-nUV3pLQ5_MhyfV4rEzAg)
 - [**5、ChartjsExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/ChartjsExercise)：[在Blazor中使用Chart.js快速创建图表](https://mp.weixin.qq.com/s/AfTWnRfS-aq32hdTn2VgdQ)
 - [**6、GenericRepositoryExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/GenericRepositoryExercise)：[一个库帮你快速实现EF Core数据仓储模式](https://mp.weixin.qq.com/s/OQINTUyppNyh53GkOOaxMA)
+- [**7、C#实现多线程的几种方式**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%BC%82%E6%AD%A5%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B/MultithreadingExample.cs)：[C#实现多线程的几种方式](https://mp.weixin.qq.com/s/mnyoD9l6VNmjbTbvI0x1nA)
+- [**8、.NET实现异步的几种方式**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%BC%82%E6%AD%A5%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B/AsyncProgrammingExample.cs)：[.NET实现异步的几种方式](https://mp.weixin.qq.com/s/4XQ9uVmLvnOQwnkYLHFNag)
 
 
