@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdGeneratorExercise", "IdGe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FusionCacheExercise", "FusionCacheExercise\FusionCacheExercise.csproj", "{1B5936BA-F3EA-4E6E-B86C-9ED0CC5EB9C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpectreExercise", "SpectreExercise\SpectreExercise.csproj", "{C35E6A45-24B4-4870-9FBF-7A8EB0CD3BA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpectreExercise", "SpectreExercise\SpectreExercise.csproj", "{C35E6A45-24B4-4870-9FBF-7A8EB0CD3BA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetSpiderExercise", "DotnetSpiderExercise\DotnetSpiderExercise.csproj", "{DA7E80D3-B6B2-4183-A50F-1EF63978D9E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{C35E6A45-24B4-4870-9FBF-7A8EB0CD3BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C35E6A45-24B4-4870-9FBF-7A8EB0CD3BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C35E6A45-24B4-4870-9FBF-7A8EB0CD3BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA7E80D3-B6B2-4183-A50F-1EF63978D9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7E80D3-B6B2-4183-A50F-1EF63978D9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7E80D3-B6B2-4183-A50F-1EF63978D9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7E80D3-B6B2-4183-A50F-1EF63978D9E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
