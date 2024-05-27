@@ -1,0 +1,32 @@
+﻿@page "/"
+@using Mapsui.UI.Blazor
+
+<PageTitle>MapsuiExercise</PageTitle>
+<div class="container">
+    <div class="row">
+        <div class="col border rounded p-2 canvas-container">
+            <MapControlComponent @ref="_mapControl" />
+        </div>
+    </div>
+</div>
+
+<style>
+    .canvas-container canvas {
+        width: 100%;
+        height: 80vh;
+    }
+</style>
+
+@code
+{
+    private MapControl? _mapControl;
+    protected override void OnAfterRender(bool firstRender)
+    {
+        base.OnAfterRender(firstRender);
+        if (firstRender)
+        {
+            if (_mapControl != null)
+                _mapControl.Map?.Layers.Add(Mapsui.Tiling.OpenStreetMap.CreateTileLayer());
+        }
+    }
+}
