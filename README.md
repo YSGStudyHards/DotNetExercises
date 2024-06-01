@@ -1,14 +1,14 @@
 # ⚔DotNet Exercises
 [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)专栏C#/.NET/.NET Core编程常用语法、技巧、中间件、类库练习集，配套详细的文章教程讲解，助你快速掌握C#/.NET/.NET Core各种编程常用语法、技巧、中间件、类库等等。
 
->想要学习DotNet什么技术欢迎Issues中留言：https://github.com/YSGStudyHards/DotNetExercises/issues
+>想要学习C#/.NET/.NET Core什么技术欢迎Issues中留言：https://github.com/YSGStudyHards/DotNetGuide/issues/42
 
 ## 👨‍👩‍👦DotNetGuide技术社区
 DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨在为开发者们提供全面的C#/.NET/.NET Core相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台。在这个社区中，开发者们可以分享自己的技术文章、项目经验、遇到的疑难技术问题以及解决方案，并且还有机会结识志同道合的开发者。我们致力于构建一个积极向上、和谐友善的.NET技术交流平台，为广大.NET开发者带来更多的价值和成长机会。
 
 > 欢迎关注作者（微信公众号：**追逐时光者**），与大姚一起沟通、交流学习、共同进步。
 * [😎了解作者&获取更多学习资料](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)
-* [👨‍👩‍👦DotNetGuide技术社区微信交流群](https://mp.weixin.qq.com/s/dgDT4Yexi_qyy84iYo9IiA)
+* [👨‍👩‍👦DotNetGuide技术社区微信交流群](https://mp.weixin.qq.com/s/07UYvW8uuspWaaBrWjw2MQ)
 * [🌈C#/.NET/.NET Core学习、工作、面试指南](https://github.com/YSGStudyHards/DotNetGuide)
 
 ## 📚文章详细教程
@@ -21,6 +21,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**6、GenericRepositoryExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/GenericRepositoryExercise)：[一个库帮你快速实现EF Core数据仓储模式](https://mp.weixin.qq.com/s/OQINTUyppNyh53GkOOaxMA)
 - [**7、MultithreadingExample**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%BC%82%E6%AD%A5%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B/MultithreadingExample.cs)：[C#实现多线程的几种方式](https://mp.weixin.qq.com/s/mnyoD9l6VNmjbTbvI0x1nA)
 - [**8、AsyncProgrammingExample**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%BC%82%E6%AD%A5%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B/AsyncProgrammingExample.cs)：[.NET实现异步的几种方式](https://mp.weixin.qq.com/s/4XQ9uVmLvnOQwnkYLHFNag)
-- [**9、DotnetSpiderExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/DotnetSpiderExercise)：[.NET快速实现网页数据抓取](https://mp.weixin.qq.com/s/Z4liThmMdTXJXXrSIZCUxg)：
+- [**9、DotnetSpiderExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/DotnetSpiderExercise)：[.NET快速实现网页数据抓取](https://mp.weixin.qq.com/s/Z4liThmMdTXJXXrSIZCUxg)
+- [**10、MapsuiExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MapsuiExercise)：[一个 .NET 开源的地图组件库 - Mapsui](https://mp.weixin.qq.com/s/ltw3K87fqJO9qvSCQ0ao6g)
 
 
