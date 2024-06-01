@@ -13,27 +13,15 @@ namespace FileCompDecompExercise
     /// </summary>
     public class FileCompressionHelper
     {
-        public static void CreateZipFile(string sourceFolder, string zipFile)
+        public static void CompressZipFile(string sourceFile, string zipFile)
         {
-            if (!Directory.Exists(sourceFolder))
-            {
-                //如果文件夹不存在，则创建该文件夹
-                Directory.CreateDirectory(sourceFolder);
-            }
-
             //创建一个新的 .zip 文件并将文件夹内容压缩进去
-            ZipFile.CreateFromDirectory(sourceFolder, zipFile);
+            ZipFile.CreateFromDirectory(sourceFile, zipFile);
             Console.WriteLine("文件压缩完成");
         }
 
         public static void ExtractZipFile(string zipFile, string extractFolder)
         {
-            if (!File.Exists(zipFile))
-            {
-                Console.WriteLine(".zip 文件不存在");
-                return;
-            }
-
             if (!Directory.Exists(extractFolder))
             {
                 // 如果文件夹不存在，则创建该文件夹
