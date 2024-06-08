@@ -23,5 +23,5 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**8、AsyncProgrammingExample**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%BC%82%E6%AD%A5%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B/AsyncProgrammingExample.cs)：[.NET实现异步的几种方式](https://mp.weixin.qq.com/s/4XQ9uVmLvnOQwnkYLHFNag)
 - [**9、DotnetSpiderExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/DotnetSpiderExercise)：[.NET快速实现网页数据抓取](https://mp.weixin.qq.com/s/Z4liThmMdTXJXXrSIZCUxg)
 - [**10、MapsuiExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MapsuiExercise)：[一个 .NET 开源的地图组件库 - Mapsui](https://mp.weixin.qq.com/s/ltw3K87fqJO9qvSCQ0ao6g)
-
+- [**11、SpectreExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/SpectreExercise)：[一个库帮你轻松的创建漂亮的.NET控制台应用程序](https://mp.weixin.qq.com/s/K1yOmNQFyl3RObrnBbG8LA)
 
