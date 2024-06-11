@@ -25,3 +25,4 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**10、MapsuiExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MapsuiExercise)：[一个 .NET 开源的地图组件库 - Mapsui](https://mp.weixin.qq.com/s/ltw3K87fqJO9qvSCQ0ao6g)
 - [**11、SpectreExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/SpectreExercise)：[一个库帮你轻松的创建漂亮的.NET控制台应用程序](https://mp.weixin.qq.com/s/K1yOmNQFyl3RObrnBbG8LA)
 - [**12、IdGeneratorExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/IdGeneratorExercise)：[.NET集成IdGenerator生成分布式全局唯一ID](https://mp.weixin.qq.com/s/U1qKb4nYkQNtbXmQJkxyPA)
+- [**13、FusionCacheExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/FusionCacheExercise)：[.NET开源强大、易于使用的缓存框架 - FusionCache](https://mp.weixin.qq.com/s/7CnK70qJRRb-OAqR9qAvAw)
