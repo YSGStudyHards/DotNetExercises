@@ -4,18 +4,20 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("追逐时光者 Hello, World!");
+            var sourceFilePath = @".\MySourceFile.xls"; //指定要压缩的文件路径(先创建对应.xls文件)
+            var zipSourceFilePath = @".\OutputFolder\ZipSourceFilePath.zip"; //压缩后文件存放路径
+            var zipFilePath = @".\OutputFolder\Archive.zip"; //压缩后文件存放路径
+            string extractPath = @".\OutputFolder"; // 解压目标文件夹路径
+            var sourceDirectory = @".\ZipFileDirectory";//指定压缩的文件目录（先在对应位置创建好）
 
-            string sourceFile = @".\source\myFile.txt"; //要压缩的文件路径
-            string zipFile = @".\target\compressed.zip"; //压缩后的zip文件路径
-            string extractFolder = @".\source\extracted"; //解压后的文件夹路径
+            //指定文件压缩为zip文件
+            FileCompressionHelper.CompressZipFile(sourceFilePath, zipSourceFilePath);
 
+            //指定文件目录压缩为zip文件
+            FileCompressionHelper.CompressZipFileDirectory(sourceDirectory, zipFilePath);
 
-            //创建一个新的 .zip 文件并压缩文件夹内容
-            FileCompressionHelper.CompressZipFile(sourceFile, zipFile);
-
-            //提取 .zip 文件到一个新文件夹
-            FileCompressionHelper.ExtractZipFile(zipFile, extractFolder);
+            //解压.zip文件到目标文件夹
+            FileCompressionHelper.ExtractZipFile(zipFilePath, extractPath);
 
             Console.WriteLine("操作完成");
         }
