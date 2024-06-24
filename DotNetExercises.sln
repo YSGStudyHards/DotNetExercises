@@ -25,9 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpectreExercise", "SpectreE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotnetSpiderExercise", "DotnetSpiderExercise\DotnetSpiderExercise.csproj", "{DA7E80D3-B6B2-4183-A50F-1EF63978D9E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileCompDecompExercise", "FileCompDecompExercise\FileCompDecompExercise.csproj", "{6F0DF339-E77F-4856-99E9-6F0BB77B3402}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileCompDecompExercise", "FileCompDecompExercise\FileCompDecompExercise.csproj", "{6F0DF339-E77F-4856-99E9-6F0BB77B3402}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapsuiExercise", "MapsuiExercise\MapsuiExercise.csproj", "{A28271B3-3DAF-43F1-A925-1B9F3A9969D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MapsuiExercise", "MapsuiExercise\MapsuiExercise.csproj", "{A28271B3-3DAF-43F1-A925-1B9F3A9969D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvHelperExercise", "CsvHelperExercise\CsvHelperExercise.csproj", "{7B4C6757-3789-4F9A-AC97-A82170330A90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{A28271B3-3DAF-43F1-A925-1B9F3A9969D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A28271B3-3DAF-43F1-A925-1B9F3A9969D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A28271B3-3DAF-43F1-A925-1B9F3A9969D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B4C6757-3789-4F9A-AC97-A82170330A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4C6757-3789-4F9A-AC97-A82170330A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4C6757-3789-4F9A-AC97-A82170330A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4C6757-3789-4F9A-AC97-A82170330A90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
