@@ -28,3 +28,4 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**13、FusionCacheExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/FusionCacheExercise)：[.NET开源强大、易于使用的缓存框架 - FusionCache](https://mp.weixin.qq.com/s/7CnK70qJRRb-OAqR9qAvAw)
 - [**14、AutoMapperExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/AutoMapperExercise)：[ASP.NET Core Web中使用AutoMapper进行对象映射](https://mp.weixin.qq.com/s/i4Wn0ox22gIffB8UwoBZXQ)
 - [**15、CsvHelperExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/CsvHelperExercise)：[.NET使用CsvHelper快速读取和写入CSV文件](https://mp.weixin.qq.com/s/md9kqIyVOKkvQv8xD7LCWA)
+- [**16、FileCompDecompExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/FileCompDecompExercise)：[.NET使用原生方法实现文件压缩和解压](https://mp.weixin.qq.com/s/CCV2QC9-TFIM45sSyKYLag)
