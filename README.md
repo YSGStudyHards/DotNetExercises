@@ -30,3 +30,5 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**15、CsvHelperExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/CsvHelperExercise)：[.NET使用CsvHelper快速读取和写入CSV文件](https://mp.weixin.qq.com/s/md9kqIyVOKkvQv8xD7LCWA)
 - [**16、FileCompDecompExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/FileCompDecompExercise)：[.NET使用原生方法实现文件压缩和解压](https://mp.weixin.qq.com/s/CCV2QC9-TFIM45sSyKYLag)
 - [**17、TerminalGuiExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/TerminalGuiExercise)：[使用Terminal.Gui构建功能强大的.NET控制台应用](https://mp.weixin.qq.com/s/c9eonfbaHksv5vIc3tH0Ig)
+- [**18、MLNETExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MLNETExercise)：[使用ML.NET训练一个属于自己的图像分类模型，对图像进行分类就这么简单！](https://mp.weixin.qq.com/s/TMC6Dzk-k_Xs13THNNhbbA)
+
