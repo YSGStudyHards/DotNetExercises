@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsvHelperExercise", "CsvHel
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TerminalGuiExercise", "TerminalGuiExercise\TerminalGuiExercise.csproj", "{9FEB8B96-A47D-4510-8BD6-EF2D7DA96593}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLNETExercise", "MLNETExercise\MLNETExercise.csproj", "{D255413B-D1DE-4253-8A01-3DDEC84F9326}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLNETExercise", "MLNETExercise\MLNETExercise.csproj", "{D255413B-D1DE-4253-8A01-3DDEC84F9326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrCodeGeneratorExercise", "QrCodeGeneratorExercise\QrCodeGeneratorExercise.csproj", "{C8773F75-795B-4DED-B7A5-E769E2ED302C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{D255413B-D1DE-4253-8A01-3DDEC84F9326}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D255413B-D1DE-4253-8A01-3DDEC84F9326}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D255413B-D1DE-4253-8A01-3DDEC84F9326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8773F75-795B-4DED-B7A5-E769E2ED302C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8773F75-795B-4DED-B7A5-E769E2ED302C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8773F75-795B-4DED-B7A5-E769E2ED302C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8773F75-795B-4DED-B7A5-E769E2ED302C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
