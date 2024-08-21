@@ -32,4 +32,5 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**17、TerminalGuiExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/TerminalGuiExercise)：[使用Terminal.Gui构建功能强大的.NET控制台应用](https://mp.weixin.qq.com/s/c9eonfbaHksv5vIc3tH0Ig)
 - [**18、MLNETExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MLNETExercise)：[使用ML.NET训练一个属于自己的图像分类模型，对图像进行分类就这么简单！](https://mp.weixin.qq.com/s/TMC6Dzk-k_Xs13THNNhbbA)
 - [**19、CSharp12GrammarExercise**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/CSharp%E8%AF%AD%E6%B3%95/CSharp12GrammarExercise.cs)：[C# 12 新增功能实操](https://mp.weixin.qq.com/s/P-f-cP9bpUD99RsB3lQOzA)
+- [**20、FFmpegAudioAndVideoMerge**](https://github.com/YSGStudyHards/FFmpegAudioAndVideoMerge)：[C#进程调用FFmpeg操作音视频](https://mp.weixin.qq.com/s/7mz0cUddAp0vhR7JnD3hNg)
 
