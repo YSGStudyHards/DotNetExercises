@@ -49,4 +49,5 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**34、.NET之Hangfire快速入门和使用**](https://mp.weixin.qq.com/s/fokjKhfFZyhD8XOW21Etug)
 - [**35、ASP.NET Core中创建中间件的几种方式**](https://mp.weixin.qq.com/s/DJLE9m3LhYFI8WQUKVygjA)
 - [**36、.NET MAUI使用示例大全**](https://github.com/VladislavAntonyuk/MauiSamples)
+- [**37、演示如何在WPF中使用各种Prism功能的示例**](https://github.com/PrismLibrary/Prism-Samples-Wpf)
 
