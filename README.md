@@ -51,5 +51,6 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**36、.NET MAUI使用示例大全**](https://github.com/VladislavAntonyuk/MauiSamples)
 - [**37、C#实现的设计模式示例代码**](https://github.com/sheng-jie/Design-Pattern)
 - [**38、Avalonia示例项目练习集**](https://github.com/AvaloniaUI/Avalonia.Samples)
-- [**39、演示如何在WPF中使用各种Prism功能的示例**](https://github.com/PrismLibrary/Prism-Samples-Wpf)
+- [**39、C#实现的设计模式示例代码**](https://github.com/sheng-jie/Design-Pattern)：[C#设计模式入门实战教程](https://mp.weixin.qq.com/s/FM0ThUR92EcXJ3YY313ifw)
+- [**40、演示如何在WPF中使用各种Prism功能的示例**](https://github.com/PrismLibrary/Prism-Samples-Wpf)
 
