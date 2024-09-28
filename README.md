@@ -54,4 +54,5 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**39、Avalonia示例项目练习集**](https://github.com/AvaloniaUI/Avalonia.Samples)
 - [**40、C#实现的设计模式示例代码**](https://github.com/sheng-jie/Design-Pattern)：[C#设计模式入门实战教程](https://mp.weixin.qq.com/s/FM0ThUR92EcXJ3YY313ifw)
 - [**41、演示如何在WPF中使用各种Prism功能的示例**](https://github.com/PrismLibrary/Prism-Samples-Wpf)
+- [**42、C#经典十大排序算法**](https://mp.weixin.qq.com/s/RZpAuht7yNLdG4Nb6TGinw)
 
