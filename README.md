@@ -57,3 +57,4 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**42、C#经典十大排序算法**](https://mp.weixin.qq.com/s/RZpAuht7yNLdG4Nb6TGinw)
    - [**C#冒泡排序算法**]()：[C#冒泡排序算法](https://mp.weixin.qq.com/s/z_LPZ6QUFNJcwaEw_H5qbQ)
   - [**C#选择排序算法**]()：[C#选择排序算法](https://mp.weixin.qq.com/s/RZpAuht7yNLdG4Nb6TGinw)
+   - [**C#插入排序算法**]()：[C#插入排序算法](https://mp.weixin.qq.com/s/YEregZ_GOGgEltGUJadycw)
