@@ -61,4 +61,5 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
    - [**C#希尔排序算法**]()：[C#希尔排序算法](https://mp.weixin.qq.com/s/_t9QVuj_rLcNomyv7LcGMA)
    - [**C#归并排序算法**]()：[C#归并排序算法](https://mp.weixin.qq.com/s/ToURWBfVIl7087Ago8fGdQ)
    - [**C#快速排序算法**]()：[C#快速排序算法](https://mp.weixin.qq.com/s/7vms2Q4s7DBdFs31w4cfVA)
-   - [**C#快速排序算法**]()：[C#快速排序算法](https://mp.weixin.qq.com/s/7vms2Q4s7DBdFs31w4cfVA)
+   - [**C#堆排序算法**]()：[C#堆排序算法](https://mp.weixin.qq.com/s/zS_ESKzlg05ICqFPIaePkg)
+
