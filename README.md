@@ -3,6 +3,8 @@
 
 >想要学习C#/.NET/.NET Core什么技术欢迎Issues中留言：https://github.com/YSGStudyHards/DotNetGuide/issues/42
 
+![C#/.NET/.NET Core学习、工作、面试指南](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2336807/o_230817182324_%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97.png "C#/.NET/.NET Core学习、工作、面试指南")
+
 ## 👨‍👩‍👦DotNetGuide技术社区
 DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨在为开发者们提供全面的C#/.NET/.NET Core相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台。在这个社区中，开发者们可以分享自己的技术文章、项目经验、遇到的疑难技术问题以及解决方案，并且还有机会结识志同道合的开发者。我们致力于构建一个积极向上、和谐友善的.NET技术交流平台，为广大.NET开发者带来更多的价值和成长机会。
 
@@ -56,10 +58,19 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**41、演示如何在WPF中使用各种Prism功能的示例**](https://github.com/PrismLibrary/Prism-Samples-Wpf)
 - [**42、C#经典十大排序算法**](https://mp.weixin.qq.com/s/RZpAuht7yNLdG4Nb6TGinw)
    - [**C#冒泡排序算法**]()：[C#冒泡排序算法](https://mp.weixin.qq.com/s/z_LPZ6QUFNJcwaEw_H5qbQ)
-  - [**C#选择排序算法**]()：[C#选择排序算法](https://mp.weixin.qq.com/s/RZpAuht7yNLdG4Nb6TGinw)
+   - [**C#选择排序算法**]()：[C#选择排序算法](https://mp.weixin.qq.com/s/RZpAuht7yNLdG4Nb6TGinw)
    - [**C#插入排序算法**]()：[C#插入排序算法](https://mp.weixin.qq.com/s/YEregZ_GOGgEltGUJadycw)
    - [**C#希尔排序算法**]()：[C#希尔排序算法](https://mp.weixin.qq.com/s/_t9QVuj_rLcNomyv7LcGMA)
    - [**C#归并排序算法**]()：[C#归并排序算法](https://mp.weixin.qq.com/s/ToURWBfVIl7087Ago8fGdQ)
    - [**C#快速排序算法**]()：[C#快速排序算法](https://mp.weixin.qq.com/s/7vms2Q4s7DBdFs31w4cfVA)
    - [**C#堆排序算法**]()：[C#堆排序算法](https://mp.weixin.qq.com/s/zS_ESKzlg05ICqFPIaePkg)
+   - [**C#计数排序算法**]()：[C#计数排序算法](https://mp.weixin.qq.com/s/PA5NNqcy3CM9PSncWCsmEg)
+   - [**C#桶排序算法**]()：[C#桶排序算法](https://mp.weixin.qq.com/s/YzviDcm3-4E5Wf2jooylJQ)
+   - [**C#基数排序算法**]()：[C#基数排序算法](https://mp.weixin.qq.com/s/dCG-LLim4UGD1kIY2a3hmA)
+- [**43、C#经典查找算法**]()
+   - C#二分查找算法
+   - C#线性查找算法
+   - C#哈希查找算法
+   - [C#二叉搜索树算法]()：[C#二叉搜索树算法](https://mp.weixin.qq.com/s/qs8CZzjtmyXkQhkRWmqllA)
+- [**44、EtoFormsExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/EtoFormsExercise)：[.NET开源跨平台桌面和移动应用的统一框架 - Eto.Forms](https://mp.weixin.qq.com/s/rknEF3jT568LbMsnCs3zqA)
 
