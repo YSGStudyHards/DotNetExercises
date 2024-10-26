@@ -67,7 +67,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
    - [**C#计数排序算法**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/%E8%AE%A1%E6%95%B0%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.cs)：[C#计数排序算法](https://mp.weixin.qq.com/s/PA5NNqcy3CM9PSncWCsmEg)
    - [**C#桶排序算法**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/%E6%A1%B6%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.cs)：[C#桶排序算法](https://mp.weixin.qq.com/s/YzviDcm3-4E5Wf2jooylJQ)
    - [**C#基数排序算法**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/%E5%9F%BA%E6%95%B0%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.cs)：[C#基数排序算法](https://mp.weixin.qq.com/s/dCG-LLim4UGD1kIY2a3hmA)
-- [**43、C#经典查找算法**]()
+- [**43、C#经典查找算法**](https://mp.weixin.qq.com/s/zj9oZBajcewU6yP4y8e_ow)
    - C#二分查找算法
    - C#线性查找算法
    - C#哈希查找算法
