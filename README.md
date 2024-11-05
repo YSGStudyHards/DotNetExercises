@@ -74,4 +74,5 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
    - [**C#二叉搜索树算法源码**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%AE%97%E6%B3%95.cs)：[C#二叉搜索树算法](https://mp.weixin.qq.com/s/qs8CZzjtmyXkQhkRWmqllA)
 - [**44、EtoFormsExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/EtoFormsExercise)：[.NET开源跨平台桌面和移动应用的统一框架 - Eto.Forms](https://mp.weixin.qq.com/s/rknEF3jT568LbMsnCs3zqA)
 - [**45、MoqExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MoqExercise)：[.NET使用Moq开源模拟库简化单元测试](https://mp.weixin.qq.com/s/lJMf3UP1TQHAdE1gi9DWQw)
+- [**46、MethodTimerExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MethodTimerExercise)：[一个.NET开源、轻量级的运行耗时统计库](https://mp.weixin.qq.com/s/YRNodWl8pxEk_OnAkY92Gw)
 
