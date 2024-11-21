@@ -52,7 +52,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**35、ASP.NET Core中创建中间件的几种方式**](https://mp.weixin.qq.com/s/DJLE9m3LhYFI8WQUKVygjA)
 - [**36、.NET MAUI使用示例大全**](https://github.com/VladislavAntonyuk/MauiSamples)
 - [**37、C# 设计模式入门到实战教程**](https://mp.weixin.qq.com/s/FM0ThUR92EcXJ3YY313ifw)
-   - [C# 单例模式的多种实现](https://mp.weixin.qq.com/s/Ub3OAThfay4_EasKnYCGUw)
+   - [**C# 单例模式的多种实现**](https://mp.weixin.qq.com/s/Ub3OAThfay4_EasKnYCGUw)：[单例模式](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.cs)
 - [**38、.NET 9 中 LINQ 新增功能实操**](https://mp.weixin.qq.com/s/lF1O-0FpKLDSYowZ2DjX3g)：[LinqExercise](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/CSharp%E8%AF%AD%E6%B3%95/LinqExercise.cs)
 - [**39、Avalonia示例项目练习集**](https://github.com/AvaloniaUI/Avalonia.Samples)
 - [**40、C#实现的设计模式示例代码**](https://github.com/sheng-jie/Design-Pattern)：[C#设计模式入门实战教程](https://mp.weixin.qq.com/s/FM0ThUR92EcXJ3YY313ifw)
