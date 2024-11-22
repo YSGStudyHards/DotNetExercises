@@ -76,4 +76,5 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**44、EtoFormsExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/EtoFormsExercise)：[.NET开源跨平台桌面和移动应用的统一框架 - Eto.Forms](https://mp.weixin.qq.com/s/rknEF3jT568LbMsnCs3zqA)
 - [**45、MoqExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MoqExercise)：[.NET使用Moq开源模拟库简化单元测试](https://mp.weixin.qq.com/s/lJMf3UP1TQHAdE1gi9DWQw)
 - [**46、MethodTimerExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MethodTimerExercise)：[一个.NET开源、轻量级的运行耗时统计库](https://mp.weixin.qq.com/s/YRNodWl8pxEk_OnAkY92Gw)
+- [**47、利用腾讯元器，将公众号变身为强大的.NET AI智能体**](https://mp.weixin.qq.com/s/kapZm6g9vN5YB8MiRcIXVg)
 
