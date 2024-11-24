@@ -77,4 +77,6 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**45、MoqExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MoqExercise)：[.NET使用Moq开源模拟库简化单元测试](https://mp.weixin.qq.com/s/lJMf3UP1TQHAdE1gi9DWQw)
 - [**46、MethodTimerExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MethodTimerExercise)：[一个.NET开源、轻量级的运行耗时统计库](https://mp.weixin.qq.com/s/YRNodWl8pxEk_OnAkY92Gw)
 - [**47、利用腾讯元器，将公众号变身为强大的.NET AI智能体**](https://mp.weixin.qq.com/s/kapZm6g9vN5YB8MiRcIXVg)
-
+- [**48、使用Visual Studio分析.NET Dump，快速排查内存泄漏问题！**](https://mp.weixin.qq.com/s/tpEfmOR-wjYkZsWey7-Nmg)
+- [**49、.NET NoSQL 嵌入式数据库 LiteDB 使用教程**](https://mp.weixin.qq.com/s/Rq8z17ZmP_Cx_yGfcgeN_A)
+- [**50、.NET常见的几种项目架构模式，你知道几种？**](https://mp.weixin.qq.com/s/kr1vlt4tj3dSyXyRv-GqOw)
