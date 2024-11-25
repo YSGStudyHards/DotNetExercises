@@ -80,3 +80,6 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**48、使用Visual Studio分析.NET Dump，快速排查内存泄漏问题！**](https://mp.weixin.qq.com/s/tpEfmOR-wjYkZsWey7-Nmg)
 - [**49、.NET NoSQL 嵌入式数据库 LiteDB 使用教程**](https://mp.weixin.qq.com/s/Rq8z17ZmP_Cx_yGfcgeN_A)
 - [**50、.NET常见的几种项目架构模式，你知道几种？**](https://mp.weixin.qq.com/s/kr1vlt4tj3dSyXyRv-GqOw)
+- [**51、值得推荐的.NET/.NET Core ORM框架**](https://mp.weixin.qq.com/s/cBy8-oqhidgvdHCsN1HXjQ)
+- [**52、在.NET Core中灵活使用反射**](https://mp.weixin.qq.com/s/dPwuPcdicO7gXGG4weWEOA)
+- [**53、C#/.NET/.NET Core自学入门指南**](https://mp.weixin.qq.com/s/yY5Znvg6J2FcG5NSIFKBfA)
