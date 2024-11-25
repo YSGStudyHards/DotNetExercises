@@ -69,9 +69,9 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
    - [**C#桶排序算法源码**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/%E6%A1%B6%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.cs)：[C#桶排序算法](https://mp.weixin.qq.com/s/YzviDcm3-4E5Wf2jooylJQ)
    - [**C#基数排序算法源码**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/%E5%9F%BA%E6%95%B0%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.cs)：[C#基数排序算法](https://mp.weixin.qq.com/s/dCG-LLim4UGD1kIY2a3hmA)
 - [**43、C#经典查找算法**](https://mp.weixin.qq.com/s/zj9oZBajcewU6yP4y8e_ow)
-   - C#二分查找算法
-   - C#线性查找算法
-   - C#哈希查找算法
+   - [**C#二分查找算法**](https://mp.weixin.qq.com/s/uCuqv0zOI0ZsF48Q1LoCsQ)：[C#二分查找算法](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95.cs)
+   - [**C#线性查找算法**](https://mp.weixin.qq.com/s/VKC5lEYCL7SHieNMaPOE3A)：[C#线性查找算法](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/%E7%BA%BF%E6%80%A7%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95.cs)
+   - [**C#哈希查找算法**](https://mp.weixin.qq.com/s/WaXCFshzuqVQD6YX2Kcw5g)：[C#哈希查找算法](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/%E5%93%88%E5%B8%8C%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95.cs)
    - [**C#二叉搜索树算法源码**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%AE%97%E6%B3%95.cs)：[C#二叉搜索树算法](https://mp.weixin.qq.com/s/qs8CZzjtmyXkQhkRWmqllA)
 - [**44、EtoFormsExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/EtoFormsExercise)：[.NET开源跨平台桌面和移动应用的统一框架 - Eto.Forms](https://mp.weixin.qq.com/s/rknEF3jT568LbMsnCs3zqA)
 - [**45、MoqExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MoqExercise)：[.NET使用Moq开源模拟库简化单元测试](https://mp.weixin.qq.com/s/lJMf3UP1TQHAdE1gi9DWQw)
