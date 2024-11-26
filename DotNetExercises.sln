@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoqExercise", "MoqExercise\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodTimerExercise", "MethodTimerExercise\MethodTimerExercise.csproj", "{35FC45B8-AC00-4A55-816F-7FE5A8D263FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchmarkDotNetExercise", "BenchmarkDotNetExercise\BenchmarkDotNetExercise.csproj", "{63FBEC0A-5295-4A58-BC23-A0B19FF815C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{35FC45B8-AC00-4A55-816F-7FE5A8D263FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35FC45B8-AC00-4A55-816F-7FE5A8D263FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35FC45B8-AC00-4A55-816F-7FE5A8D263FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63FBEC0A-5295-4A58-BC23-A0B19FF815C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FBEC0A-5295-4A58-BC23-A0B19FF815C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FBEC0A-5295-4A58-BC23-A0B19FF815C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FBEC0A-5295-4A58-BC23-A0B19FF815C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
