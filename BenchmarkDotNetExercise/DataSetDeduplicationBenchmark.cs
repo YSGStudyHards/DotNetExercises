@@ -10,7 +10,7 @@ namespace BenchmarkDotNetExercise
         public DataSetDeduplicationBenchmark()
         {
             // 生成大量重复数据  
-            dataSource = Enumerable.Repeat(Enumerable.Range(1, 100), 1000).SelectMany(x => x).ToList();
+            dataSource = Enumerable.Repeat(Enumerable.Range(1, 100), 10000).SelectMany(x => x).ToList();
         }
 
         /// <summary>
