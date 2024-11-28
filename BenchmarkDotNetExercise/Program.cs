@@ -6,7 +6,8 @@ namespace BenchmarkDotNetExercise
     {
         static void Main(string[] args)
         {
-            var summary = BenchmarkRunner.Run<HashFunctionsBenchmark>();
+            //var hashFunctionsBenchmark = BenchmarkRunner.Run<HashFunctionsBenchmark>();
+            var dataSetDeduplicationBenchmark = BenchmarkRunner.Run<DataSetDeduplicationBenchmark>();
         }
     }
 }
