@@ -86,4 +86,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**54、WPF 相关示例项目练习集**](https://github.com/microsoft/WPF-Samples)
 - [**55、BenchmarkDotNetExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/BenchmarkDotNetExercise)：[使用 BenchmarkDotNet 对 .NET 代码进行性能基准测试](https://mp.weixin.qq.com/s/6mpHS1OVuIlBgdU71OIIOw)
 - [**56、DataSetDeduplicationBenchmark**](https://github.com/YSGStudyHards/DotNetExercises/blob/master/BenchmarkDotNetExercise/DataSetDeduplicationBenchmark.cs)：[C#集合数据去重的5种方式及其性能对比测试分析](https://mp.weixin.qq.com/s/cjtq-y16OoM5DxcQ_t2YKw)
-- [**57、.NET反编译神器ILSpy怎么用？**](https://mp.weixin.qq.com/s/s30tOUAf2HaVjdG03lZpMA?token=999158943&lang=zh_CN)
+- [**57、.NET反编译神器ILSpy怎么用？**](https://mp.weixin.qq.com/s/s30tOUAf2HaVjdG03lZpMA)
+- [**58、.NET MongoDB数据仓储和工作单元模式封装**](https://mp.weixin.qq.com/s/XPX1J28M1ewDJZYwQNpDHw)
+- [**59、将ASP.NET Core Web API和Blazor Wasm发布到 IIS**](https://mp.weixin.qq.com/s/6Q-qZsdjjbwCGukrFrvAXQ)
+- [**60、.NET使用MiniWord高效生成Word文件**](https://mp.weixin.qq.com/s/2A02aXxvMxIhQV2WJE7pkg)
