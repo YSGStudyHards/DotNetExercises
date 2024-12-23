@@ -88,11 +88,11 @@ namespace BenchmarkDotNetExercise
         }
 
         /// <summary>
-        /// 使用StringBuilder拼接字符串
+        /// 使用StringBuilder.Append拼接字符串
         /// </summary>
         /// <returns></returns>
         [Benchmark]
-        public string StringBuilder()
+        public string StringBuilderAppend()
         {
             StringBuilder stringBuilder = new StringBuilder();
             for (int i = 0; i < IterationCount; i++)
@@ -102,6 +102,21 @@ namespace BenchmarkDotNetExercise
                 stringBuilder.Append(StringPart2);
                 stringBuilder.Append(" ");
                 stringBuilder.Append(StringPart3);
+            }
+            return stringBuilder.ToString();
+        }
+
+        /// <summary>
+        /// 使用StringBuilder.AppendFormat拼接字符串
+        /// </summary>
+        /// <returns></returns>
+        [Benchmark]
+        public string StringBuilderAppendFormat()
+        {
+            StringBuilder stringBuilder = new StringBuilder();
+            for (int i = 0; i < IterationCount; i++)
+            {
+                stringBuilder.AppendFormat("{0} {1} {2}", StringPart1, StringPart2, StringPart3);
             }
             return stringBuilder.ToString();
         }
