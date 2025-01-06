@@ -99,3 +99,8 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**67、.NET中使用BootstrapBlazor组件库Table实操篇**](https://mp.weixin.qq.com/s/qFHUC9UKg_2wY2jSthI9Kw)
 - [**68、.NET使用Umbraco CMS快速构建一个属于自己的内容管理系统**](https://mp.weixin.qq.com/s/xaTtknSY98Nsuxrvyfwe5w)
 - [**69、全面的.NET微信网页开发之JS-SDK使用步骤、配置信息和接口请求签名生成详解**](https://mp.weixin.qq.com/s/zlSKXQg8IgzEFC-7v-Gngg)
+- [**70、.NET微信网页开发之通过UnionID机制解决多应用用户帐号统一问题**](https://mp.weixin.qq.com/s/XiFxwEREJxmOuFLwZzDBww)
+- [**71、.NET微信网页开发之网页授权获取用户基本信息**](https://mp.weixin.qq.com/s/5eGEt1JEVKflsR360NexHA)
+- [**72、.NET微信网页开发之使用微信JS-SDK自定义微信分享内容**](https://mp.weixin.qq.com/s/7hC-DrELYJiz8YUt06WxKw)
+- [**73、.NET微信网页开发之使用微信JS-SDK调用微信扫一扫功能**](https://mp.weixin.qq.com/s/dLeHIASFrrZZh3j1ggD41Q)
+- [**74、.NET微信网页开发之使用微信JS-SDK获取当前地理位置**](https://mp.weixin.qq.com/s/j3_TKYiwk_ZqUQ4tj0Y9BQ)
