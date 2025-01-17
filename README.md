@@ -104,3 +104,4 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**72、.NET微信网页开发之使用微信JS-SDK自定义微信分享内容**](https://mp.weixin.qq.com/s/7hC-DrELYJiz8YUt06WxKw)
 - [**73、.NET微信网页开发之使用微信JS-SDK调用微信扫一扫功能**](https://mp.weixin.qq.com/s/dLeHIASFrrZZh3j1ggD41Q)
 - [**74、.NET微信网页开发之使用微信JS-SDK获取当前地理位置**](https://mp.weixin.qq.com/s/j3_TKYiwk_ZqUQ4tj0Y9BQ)
+- [**75、EasySQLite**](https://github.com/YSGStudyHards/EasySQLite)：[将 EasySQLite 从 .NET 8 升级到 .NET 9](https://mp.weixin.qq.com/s/EN5fu-RvBK-xX8lJMZ5QvA)
