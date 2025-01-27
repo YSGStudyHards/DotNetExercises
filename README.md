@@ -106,3 +106,4 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**74、.NET微信网页开发之使用微信JS-SDK获取当前地理位置**](https://mp.weixin.qq.com/s/j3_TKYiwk_ZqUQ4tj0Y9BQ)
 - [**75、EasySQLite**](https://github.com/YSGStudyHards/EasySQLite)：[七天.NET 8操作SQLite入门到实战详细教程（选型、开发、发布、部署）](https://mp.weixin.qq.com/s/6aKoDIle7nMr2aflMvhdmw)
 - [**76、EasySQLite**](https://github.com/YSGStudyHards/EasySQLite)：[将 EasySQLite 从 .NET 8 升级到 .NET 9](https://mp.weixin.qq.com/s/EN5fu-RvBK-xX8lJMZ5QvA)
+- [**77、EasySQLite**](https://github.com/YSGStudyHards/EasySQLite)：[在 .NET 9 中使用 Scalar 替代 Swagger](https://mp.weixin.qq.com/s/oYYqRa_1Bwn65SdcPWelSQ)
