@@ -114,3 +114,4 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**80、EasySQLite**](https://github.com/YSGStudyHards/EasySQLite)：[七天.NET 8操作SQLite入门到实战详细教程（选型、开发、发布、部署）](https://mp.weixin.qq.com/s/6aKoDIle7nMr2aflMvhdmw)
 - [**81、EasySQLite**](https://github.com/YSGStudyHards/EasySQLite)：[将 EasySQLite 从 .NET 8 升级到 .NET 9](https://mp.weixin.qq.com/s/EN5fu-RvBK-xX8lJMZ5QvA)
 - [**82、EasySQLite**](https://github.com/YSGStudyHards/EasySQLite)：[在 .NET 9 中使用 Scalar 替代 Swagger](https://mp.weixin.qq.com/s/oYYqRa_1Bwn65SdcPWelSQ)
+- [**83、DictionaryExercise**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/CSharp%E8%AF%AD%E6%B3%95/DictionaryExercise.cs)：[C#之 Dictionary 详解](https://mp.weixin.qq.com/s/PIzbV1gxz3L9JR8-vsB4ow)
