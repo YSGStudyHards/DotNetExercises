@@ -116,4 +116,5 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**82、EasySQLite**](https://github.com/YSGStudyHards/EasySQLite)：[在 .NET 9 中使用 Scalar 替代 Swagger](https://mp.weixin.qq.com/s/oYYqRa_1Bwn65SdcPWelSQ)
 - [**83、DictionaryExercise**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/CSharp%E8%AF%AD%E6%B3%95/DictionaryExercise.cs)：[C#之 Dictionary 详解](https://mp.weixin.qq.com/s/PIzbV1gxz3L9JR8-vsB4ow)
 - [**84、ParamsBenchmark**](https://github.com/YSGStudyHards/DotNetExercises/blob/master/BenchmarkDotNetExercise/ParamsBenchmark.cs)：[浅谈 C# 13 中的 params 集合](https://mp.weixin.qq.com/s/RNxL8YX_BEFDb3qcJzXjqA)
-- [**85、C# 中比较实用的关键字，基础高频面试题！**](https://mp.weixin.qq.com/s/V1fDK4cs_j_igsIrKcPHZg)
+- [**85、CSharp13GrammarExercise**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/CSharp%E8%AF%AD%E6%B3%95/CSharp13GrammarExercise.cs)：[C# 13 中的新增功能实操](https://mp.weixin.qq.com/s/s6FXo-8pL2I3l8EDH4-ZiA)
+- [**86、C# 中比较实用的关键字，基础高频面试题！**](https://mp.weixin.qq.com/s/V1fDK4cs_j_igsIrKcPHZg)
