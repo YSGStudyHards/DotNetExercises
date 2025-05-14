@@ -122,5 +122,5 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**88、CSharp13GrammarExercise**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/CSharp%E8%AF%AD%E6%B3%95/CSharp13GrammarExercise.cs)：[C# 13 中的新增功能实操](https://mp.weixin.qq.com/s/s6FXo-8pL2I3l8EDH4-ZiA)
 - [**89、LinqExercise**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/CSharp%E8%AF%AD%E6%B3%95/LinqExercise.cs)：[C# LINQ 快速入门实战指南，建议收藏学习！](https://mp.weixin.qq.com/s/dYJLNMqaGGO9tLdODot9vg)
 - [**90、EFCoreExercise**](https://github.com/YSGStudyHards/EFCoreExercise/blob/main/Service/AdvancedQuery.cs)：[EF Core 10 现已支持 LeftJoin 和 RightJoin 运算符查询了！](https://mp.weixin.qq.com/s/gi35WPRGI5uHmaeAwK_MJQ)
-- [**91、**]()
+- [**91、SqidsExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/SqidsExercise)：[在 .NET 中使用 Sqids 快速的为数字 ID 披上神秘短串，轻松隐藏敏感数字！](https://mp.weixin.qq.com/s/uZws-L02Gee1KusPub6E0g)
 
