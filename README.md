@@ -108,7 +108,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**74、全面的.NET微信网页开发之JS-SDK使用步骤、配置信息和接口请求签名生成详解**](https://mp.weixin.qq.com/s/zlSKXQg8IgzEFC-7v-Gngg)
 - [**75、.NET微信网页开发之通过UnionID机制解决多应用用户帐号统一问题**](https://mp.weixin.qq.com/s/XiFxwEREJxmOuFLwZzDBww)
 - [**76、.NET微信网页开发之网页授权获取用户基本信息**](https://mp.weixin.qq.com/s/5eGEt1JEVKflsR360NexHA)
-- [**77、.NET微信网页开发之使用微信JS-SDK自定义微信分享内容**](https://www.cnblogs.com/Can-daydayup/p/11135983.html)
+- [**77、.NET微信网页开发之使用微信JS-SDK自定义微信分享内容**](https://mp.weixin.qq.com/s/_E6TXunEPt9j6U-5836rZQ)
 - [**78、.NET微信网页开发之使用微信JS-SDK调用微信扫一扫功能**](https://mp.weixin.qq.com/s/dLeHIASFrrZZh3j1ggD41Q)
 - [**79、.NET微信网页开发之使用微信JS-SDK获取当前地理位置**](https://mp.weixin.qq.com/s/j3_TKYiwk_ZqUQ4tj0Y9BQ)
 - [**80、C# 中比较实用的关键字，基础高频面试题！**](https://mp.weixin.qq.com/s/V1fDK4cs_j_igsIrKcPHZg)
