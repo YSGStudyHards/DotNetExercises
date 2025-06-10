@@ -125,4 +125,5 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**91、EFCoreExercise**](https://github.com/YSGStudyHards/EFCoreExercise/blob/main/Service/AdvancedQuery.cs)：[EF Core 10 现已支持 LeftJoin 和 RightJoin 运算符查询了！](https://mp.weixin.qq.com/s/gi35WPRGI5uHmaeAwK_MJQ)
 - [**92、SqidsExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/SqidsExercise)：[在 .NET 中使用 Sqids 快速的为数字 ID 披上神秘短串，轻松隐藏敏感数字！](https://mp.weixin.qq.com/s/uZws-L02Gee1KusPub6E0g)
 - [**93、一种更简单的方式运行 C# 代码，简化 C# 开发体验！**](https://mp.weixin.qq.com/s/ujJ4pYi_O2NBbWVHIdyH3g)
+- [**94、不写一行代码 .NET 使用 FluentCMS 快速构建现代化内容管理系统（CMS）**](https://mp.weixin.qq.com/s/nUa36FU5PUirtYx_k3d-bw)
 
