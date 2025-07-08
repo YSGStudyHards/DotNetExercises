@@ -125,8 +125,9 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**91、EFCoreExercise**](https://github.com/YSGStudyHards/EFCoreExercise/blob/main/Service/AdvancedQuery.cs)：[EF Core 10 现已支持 LeftJoin 和 RightJoin 运算符查询了！](https://mp.weixin.qq.com/s/gi35WPRGI5uHmaeAwK_MJQ)
 - [**92、SqidsExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/SqidsExercise)：[在 .NET 中使用 Sqids 快速的为数字 ID 披上神秘短串，轻松隐藏敏感数字！](https://mp.weixin.qq.com/s/uZws-L02Gee1KusPub6E0g)
 - [**93、xUnitExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/xUnitExercise)：[使用 xUnit 快速编写 .NET 应用单元测试](https://mp.weixin.qq.com/s/_jZNx2V1mRJCVL4m0nFzxw)
-- [**94、.NET应用中的高效分布式同步解决方案**](https://mp.weixin.qq.com/s/3P3rkVE4j39knCtpRVtzDg)
-- [**95、一种更简单的方式运行 C# 代码，简化 C# 开发体验！**](https://mp.weixin.qq.com/s/ujJ4pYi_O2NBbWVHIdyH3g)
-- [**96、推荐 3 种 .NET Windows 桌面应用程序自动更新解决方案**](https://mp.weixin.qq.com/s/2M-2I2qddvCitkrla4WmLA)
-- [**97、不写一行代码 .NET 使用 FluentCMS 快速构建现代化内容管理系统（CMS）**](https://mp.weixin.qq.com/s/nUa36FU5PUirtYx_k3d-bw)
+- [**94、ConstAndReadonlyExercise**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/CSharp%E8%AF%AD%E6%B3%95/ConstAndReadonlyExercise.cs)：[C# 中 const 和 readonly 关键字的区别和用法](https://mp.weixin.qq.com/s/qQ-d61pEIU7YpNSJjZTwGQ)
+- [**95、.NET应用中的高效分布式同步解决方案**](https://mp.weixin.qq.com/s/3P3rkVE4j39knCtpRVtzDg)
+- [**96、一种更简单的方式运行 C# 代码，简化 C# 开发体验！**](https://mp.weixin.qq.com/s/ujJ4pYi_O2NBbWVHIdyH3g)
+- [**97、推荐 3 种 .NET Windows 桌面应用程序自动更新解决方案**](https://mp.weixin.qq.com/s/2M-2I2qddvCitkrla4WmLA)
+- [**98、不写一行代码 .NET 使用 FluentCMS 快速构建现代化内容管理系统（CMS）**](https://mp.weixin.qq.com/s/nUa36FU5PUirtYx_k3d-bw)
 
