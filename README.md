@@ -128,6 +128,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**94、ConstAndReadonlyExercise**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/CSharp%E8%AF%AD%E6%B3%95/ConstAndReadonlyExercise.cs)：[C# 中 const 和 readonly 关键字的区别和用法](https://mp.weixin.qq.com/s/qQ-d61pEIU7YpNSJjZTwGQ)
 - [**95、.NET应用中的高效分布式同步解决方案**](https://mp.weixin.qq.com/s/3P3rkVE4j39knCtpRVtzDg)
 - [**96、一种更简单的方式运行 C# 代码，简化 C# 开发体验！**](https://mp.weixin.qq.com/s/ujJ4pYi_O2NBbWVHIdyH3g)
-- [**97、推荐 3 种 .NET Windows 桌面应用程序自动更新解决方案**](https://mp.weixin.qq.com/s/2M-2I2qddvCitkrla4WmLA)
-- [**98、不写一行代码 .NET 使用 FluentCMS 快速构建现代化内容管理系统（CMS）**](https://mp.weixin.qq.com/s/nUa36FU5PUirtYx_k3d-bw)
+- [**97、使用 OpenAuth.Net 快速搭建 .NET 企业级权限工作流系统**](https://mp.weixin.qq.com/s/D3wIFkNvFq-Z9LWOA6HSZA)
+- [**98、推荐 3 种 .NET Windows 桌面应用程序自动更新解决方案**](https://mp.weixin.qq.com/s/2M-2I2qddvCitkrla4WmLA)
+- [**99、不写一行代码 .NET 使用 FluentCMS 快速构建现代化内容管理系统（CMS）**](https://mp.weixin.qq.com/s/nUa36FU5PUirtYx_k3d-bw)
 
