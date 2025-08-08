@@ -12,10 +12,11 @@ namespace SundialExercises
 
             builder.Services.AddControllers();
 
-            // 注册 Sundial 作业
+            // 注册 Sundial 作业并配置触发器
             builder.Services.AddSchedule(options =>
             {
-                options.AddJob<CustomJob>(Triggers.PeriodSeconds(10)); // 10s 执行一次
+                // 添加自定义任务（每10秒执行）
+                options.AddJob<CustomJob>(Triggers.PeriodSeconds(10));
 
                 // 使用Cron表达式（每天12点执行）
                 options.AddJob<CustomJob>(Triggers.Cron("0 0 12 * * ?"));
