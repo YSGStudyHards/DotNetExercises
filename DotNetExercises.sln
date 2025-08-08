@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitExercise", "xUnitExerc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocNETExercises", "DocNETExercises\DocNETExercises.csproj", "{A3E5554E-07D4-4A07-8DCC-4CF934D246E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SundialExercises", "SundialExercises\SundialExercises.csproj", "{A8EA401B-1321-4CA5-867A-69D8E7C3DB85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{A3E5554E-07D4-4A07-8DCC-4CF934D246E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3E5554E-07D4-4A07-8DCC-4CF934D246E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3E5554E-07D4-4A07-8DCC-4CF934D246E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8EA401B-1321-4CA5-867A-69D8E7C3DB85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8EA401B-1321-4CA5-867A-69D8E7C3DB85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8EA401B-1321-4CA5-867A-69D8E7C3DB85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8EA401B-1321-4CA5-867A-69D8E7C3DB85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
