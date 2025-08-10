@@ -134,4 +134,5 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**100、xUnitExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/xUnitExercise)：[使用 xUnit 快速编写 .NET 应用单元测试](https://mp.weixin.qq.com/s/_jZNx2V1mRJCVL4m0nFzxw)
 - [**101、ConstAndReadonlyExercise**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/CSharp%E8%AF%AD%E6%B3%95/ConstAndReadonlyExercise.cs)：[C# 中 const 和 readonly 关键字的区别和用法](https://mp.weixin.qq.com/s/qQ-d61pEIU7YpNSJjZTwGQ)
 - [**102、DocNETExercises**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/DocNETExercises)：[.NET 使用 DocNET 库快速高效的操作 PDF 文档](https://mp.weixin.qq.com/s/qJloEWIhCx7YY2w3lfTB9g)
+- [**103、SundialExercises**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/SundialExercises)：[基于 .NET 开源、功能齐全的分布式作业调度系统](https://mp.weixin.qq.com/s/36EH7J5DUZPaymPTTofs3w)
 
