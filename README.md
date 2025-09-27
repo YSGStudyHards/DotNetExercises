@@ -137,4 +137,4 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**103、ConstAndReadonlyExercise**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/CSharp%E8%AF%AD%E6%B3%95/ConstAndReadonlyExercise.cs)：[C# 中 const 和 readonly 关键字的区别和用法](https://mp.weixin.qq.com/s/qQ-d61pEIU7YpNSJjZTwGQ)
 - [**104、DocNETExercises**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/DocNETExercises)：[.NET 使用 DocNET 库快速高效的操作 PDF 文档](https://mp.weixin.qq.com/s/qJloEWIhCx7YY2w3lfTB9g)
 - [**105、SundialExercises**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/SundialExercises)：[基于 .NET 开源、功能齐全的分布式作业调度系统](https://mp.weixin.qq.com/s/36EH7J5DUZPaymPTTofs3w)
-
+- [**106、OrchardCore.Cms.Web**](https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Cms.Web)：[10 分钟使用 OrchardCore 快速构建 .NET 内容管理系统（CMS)](https://mp.weixin.qq.com/s/NbiaY9kjQauPkM_Qi9yPrg)
