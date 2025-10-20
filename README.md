@@ -123,7 +123,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**89、精选 5 款 .NET 开源、功能强大的工作流系统，告别重复造轮子！**](https://mp.weixin.qq.com/s/OKH9TDT9WD505iN1dGQL6Q)
 - [**90、2025 年全面的 C#/.NET/.NET Core 学习路线集合，学习不迷路！**](https://mp.weixin.qq.com/s/Zysj-0u369yAFTHo0V2L-Q)
 - [**91、不写一行代码 .NET 使用 FluentCMS 快速构建现代化内容管理系统（CMS）**](https://mp.weixin.qq.com/s/nUa36FU5PUirtYx_k3d-bw)
-- [**92、精选 10 款开源美观、简单易用的 WPF UI 控件库，让 WPF 应用界面焕然一新！**](https://mp.weixin.qq.com/s/9ARSnNauXDuzLdT6liI0sQ)
+- [**92、推荐 12 款开源美观、简单易用的 WPF UI 控件库，让 WPF 应用界面焕然一新！**](https://mp.weixin.qq.com/s/0tzlTe-7fZvGr5YsZntwPg)
 - [**93、EasySQLite**](https://github.com/YSGStudyHards/EasySQLite)：[七天.NET 8操作SQLite入门到实战详细教程（选型、开发、发布、部署）](https://mp.weixin.qq.com/s/6aKoDIle7nMr2aflMvhdmw)
 - [**94、EasySQLite**](https://github.com/YSGStudyHards/EasySQLite)：[将 EasySQLite 从 .NET 8 升级到 .NET 9](https://mp.weixin.qq.com/s/EN5fu-RvBK-xX8lJMZ5QvA)
 - [**95、EasySQLite**](https://github.com/YSGStudyHards/EasySQLite)：[在 .NET 9 中使用 Scalar 替代 Swagger](https://mp.weixin.qq.com/s/oYYqRa_1Bwn65SdcPWelSQ)
@@ -159,4 +159,6 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**125、使用 Visual Studio 快速创建 NuGet 程序包并发布到 NuGet 官网**](https://mp.weixin.qq.com/s/bvTwu8aiKq2U3WoJ0zMkjw)
 - [**126、Visual Studio 现已支持新的、更简洁的解决方案文件（slnx）格式**](https://mp.weixin.qq.com/s/ysq58eg3Eiyie_0wY_k_Gg)
 - [**127、Visual Studio 2026 预览体验版现已发布，一起来看看带来哪些新功能！**](https://mp.weixin.qq.com/s/b5QWP8Bj9YJMRx2adyjDRg)
-
+- [**128、精选 4 款开源免费、美观实用的 MAUI UI 组件库，助力轻松构建美观且功能丰富的应用程序！**](https://mp.weixin.qq.com/s/P5_aP5H_DXDla8HARyNSjA)
+- [**129、EasySQLite**](https://github.com/YSGStudyHards/EasySQLite)：[将 EasySQLite 解决方案文件格式从 .sln 升级为更简洁的 .slnx](https://mp.weixin.qq.com/s/fNYD9GgbRik4gicn8DDT9g)
+- [**130、EasySQLite**](https://github.com/YSGStudyHards/EasySQLite)：[在 .NET 9 中使用 Mapster 快速、高效的实现对象映射](https://mp.weixin.qq.com/s/QFEbHE2EWzzZN9VvnUwD4A)
