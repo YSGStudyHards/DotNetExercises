@@ -115,7 +115,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**81、C# 14 新增功能一览，你觉得实用吗？**](https://mp.weixin.qq.com/s/83fmF_bjP-XCmlTP7Kc5Sg)
 - [**82、适用于 .NET 的现代化、流畅、可测试的HTTP客户端库**](https://mp.weixin.qq.com/s/C8dgCdgd5nwLeZvirSqNDw)
 - [**83、一个开源、经典的 WPF 控件、组件和实用工具集合，值得参考学习！**](https://mp.weixin.qq.com/s/avLIWx6tmS5DLokzLLfurw)
-- [**84、2025年全面的 .NET 图表构建解决方案**](https://mp.weixin.qq.com/s/dRbniqW_ED9fNH2PjGw6-A)
+- [**84、全面的 C#/.NET 图表构建解决方案，助力快速实现图表开发需求！**](https://mp.weixin.qq.com/s/SEa7zjoi_StTrWdhEQHmoQ)
 - [**85、.NET应用中的高效分布式同步解决方案**](https://mp.weixin.qq.com/s/3P3rkVE4j39knCtpRVtzDg)
 - [**86、一种更简单的方式运行 C# 代码，简化 C# 开发体验！**](https://mp.weixin.qq.com/s/ujJ4pYi_O2NBbWVHIdyH3g)
 - [**87、使用 OpenAuth.Net 快速搭建 .NET 企业级权限工作流系统**](https://mp.weixin.qq.com/s/D3wIFkNvFq-Z9LWOA6HSZA)
