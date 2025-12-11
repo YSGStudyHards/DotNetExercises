@@ -162,3 +162,4 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**128、精选 4 款开源免费、美观实用的 MAUI UI 组件库，助力轻松构建美观且功能丰富的应用程序！**](https://mp.weixin.qq.com/s/P5_aP5H_DXDla8HARyNSjA)
 - [**129、EasySQLite**](https://github.com/YSGStudyHards/EasySQLite)：[将 EasySQLite 解决方案文件格式从 .sln 升级为更简洁的 .slnx](https://mp.weixin.qq.com/s/fNYD9GgbRik4gicn8DDT9g)
 - [**130、EasySQLite**](https://github.com/YSGStudyHards/EasySQLite)：[在 .NET 9 中使用 Mapster 快速、高效的实现对象映射](https://mp.weixin.qq.com/s/QFEbHE2EWzzZN9VvnUwD4A)
+- [**131、精选 8 个基于 .NET 开源、功能强大的 AI 和 LLM 相关项目框架**](https://mp.weixin.qq.com/s/qxjUYO2U-TCTd0JmEtbehA)
