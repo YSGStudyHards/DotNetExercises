@@ -6,7 +6,7 @@ using System;
 
 namespace FlaUIExercise
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -25,6 +25,8 @@ namespace FlaUIExercise
             {
                 var window = notepadApp.GetMainWindow(automation);
                 window.WaitUntilClickable();
+
+                Console.WriteLine(window.Title);
 
                 // 获取编辑框（Edit 控件）
                 var edit = window.FindFirstDescendant(cf => cf.ByControlType(ControlType.Document))
