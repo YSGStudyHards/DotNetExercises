@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocNETExercises", "DocNETEx
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SundialExercises", "SundialExercises\SundialExercises.csproj", "{A8EA401B-1321-4CA5-867A-69D8E7C3DB85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlaUIExercise", "FlaUIExercise\FlaUIExercise.csproj", "{6C2457A8-D190-4946-B2AA-09A2E1B33DC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{A8EA401B-1321-4CA5-867A-69D8E7C3DB85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8EA401B-1321-4CA5-867A-69D8E7C3DB85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8EA401B-1321-4CA5-867A-69D8E7C3DB85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C2457A8-D190-4946-B2AA-09A2E1B33DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2457A8-D190-4946-B2AA-09A2E1B33DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2457A8-D190-4946-B2AA-09A2E1B33DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2457A8-D190-4946-B2AA-09A2E1B33DC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
