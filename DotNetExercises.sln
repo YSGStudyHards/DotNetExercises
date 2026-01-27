@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SundialExercises", "Sundial
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlaUIExercise", "FlaUIExercise\FlaUIExercise.csproj", "{6C2457A8-D190-4946-B2AA-09A2E1B33DC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NanUIExercise", "NanUIExercise\NanUIExercise.csproj", "{329CBD5A-C156-4482-977E-8AF475DB14E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{6C2457A8-D190-4946-B2AA-09A2E1B33DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C2457A8-D190-4946-B2AA-09A2E1B33DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C2457A8-D190-4946-B2AA-09A2E1B33DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329CBD5A-C156-4482-977E-8AF475DB14E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329CBD5A-C156-4482-977E-8AF475DB14E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329CBD5A-C156-4482-977E-8AF475DB14E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329CBD5A-C156-4482-977E-8AF475DB14E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
