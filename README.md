@@ -174,3 +174,4 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**140、快速构建一个基础、现代化的 WinForm 管理系统！**](https://mp.weixin.qq.com/s/VTBcoZZ2mNyuyV_s4fzsPA)
 - [**141、【拾遗补漏】.NET 常见术语集**](https://mp.weixin.qq.com/s/AhcZp_UTjGS9Mbi53uB1hw)
 - [**142、ASP.NET Core 依赖注入的三种服务生命周期**](https://mp.weixin.qq.com/s/ioTBANnLWcGhqoWOQdOdMA)
+- [**143、NanUIExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/NanUIExercise)：[使用 NanUI 快速创建具有现代用户界面的 WinForm 应用程序](https://mp.weixin.qq.com/s/2PDN5Q31wX6vEctodVKcig)
