@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlaUIExercise", "FlaUIExerc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NanUIExercise", "NanUIExercise\NanUIExercise.csproj", "{329CBD5A-C156-4482-977E-8AF475DB14E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BogusExercise", "BogusExercise\BogusExercise.csproj", "{E67E1F16-4C30-47A4-BC6E-5805FCFA6DDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{329CBD5A-C156-4482-977E-8AF475DB14E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{329CBD5A-C156-4482-977E-8AF475DB14E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{329CBD5A-C156-4482-977E-8AF475DB14E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E67E1F16-4C30-47A4-BC6E-5805FCFA6DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67E1F16-4C30-47A4-BC6E-5805FCFA6DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67E1F16-4C30-47A4-BC6E-5805FCFA6DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67E1F16-4C30-47A4-BC6E-5805FCFA6DDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
