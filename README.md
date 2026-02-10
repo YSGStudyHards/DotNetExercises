@@ -174,4 +174,7 @@ DotNetGuide技术社区是一个面向.NET开发者的开源技术社区，旨�
 - [**140、快速构建一个基础、现代化的 WinForm 管理系统！**](https://mp.weixin.qq.com/s/VTBcoZZ2mNyuyV_s4fzsPA)
 - [**141、【拾遗补漏】.NET 常见术语集**](https://mp.weixin.qq.com/s/AhcZp_UTjGS9Mbi53uB1hw)
 - [**142、ASP.NET Core 依赖注入的三种服务生命周期**](https://mp.weixin.qq.com/s/ioTBANnLWcGhqoWOQdOdMA)
-- [**143、NanUIExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/NanUIExercise)：[使用 NanUI 快速创建具有现代用户界面的 WinForm 应用程序](https://mp.weixin.qq.com/s/2PDN5Q31wX6vEctodVKcig)
+- [**143、一个致力于为 C# 程序员提供更佳的编码体验和效率的 Visual Studio 扩展插件**](https://mp.weixin.qq.com/s/UWuCIY4Q5PJeNClrQWPGEw)
+- [**144、微软官方出品的 AI 初学者入门精品课程，21节课程教你构建生成式人工智能应用所需掌握的知识！**](https://mp.weixin.qq.com/s/zy16qmxDPbxovRwHvKae6g)
+- [**145、NanUIExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/NanUIExercise)：[使用 NanUI 快速创建具有现代用户界面的 WinForm 应用程序](https://mp.weixin.qq.com/s/2PDN5Q31wX6vEctodVKcig)
+- [**146、BogusExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/BogusExercise)：[一款开源、强大、简单易用的 .NET 假数据生成利器](https://mp.weixin.qq.com/s/c5WOKLc9ki02gxNREVNGww)
